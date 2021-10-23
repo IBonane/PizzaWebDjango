@@ -1,9 +1,7 @@
 ### Django ###
-*.log
-*.pot
-*.pyc
+.idea/
 __pycache__/
-local_settings.py
-
-venv
+venv/
+pizzaWeb/pizzaWeb/.env
 db.sqlite3
+

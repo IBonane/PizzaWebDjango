@@ -1,5 +1,5 @@
 ### Django ###
-.idea/
+.idea
 __pycache__/
 venv/
 pizzaWeb/pizzaWeb/.env

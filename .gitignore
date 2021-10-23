@@ -1,7 +1,6 @@
 ### Django ###
 .idea
 __pycache__/
-venv/
-pizzaWeb/pizzaWeb/.env
+
 db.sqlite3
 
